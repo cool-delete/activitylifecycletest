@@ -93,6 +93,6 @@ public class MainActivity extends Activity
         super.onDestroy();
         Log.d(TAG, "ondestroy");
 
-    }
+    }//增加注释
 
 }    

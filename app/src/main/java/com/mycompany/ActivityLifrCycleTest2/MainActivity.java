@@ -6,7 +6,7 @@ import android.view.*;
 import android.widget.*;
 import android.view.View.*;
 import android.content.*;
-import android.util.*;
+import android.util.*;//考虑下几乎yy
 
 
 public class MainActivity extends Activity 

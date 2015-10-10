@@ -18,7 +18,7 @@
 
         </activity>
         <activity
-            android:name=".NormalActity">
+            android:name=".NormalActivity">
         </activity>
         <activity 
             android:name=".DialogActivity"
